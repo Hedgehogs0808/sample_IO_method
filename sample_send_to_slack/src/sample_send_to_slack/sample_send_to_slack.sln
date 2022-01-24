@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample_send_to_slack", "sample_send_to_slack\sample_send_to_slack.csproj", "{63221B8F-0FD4-418B-AE3C-205CD079090A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63221B8F-0FD4-418B-AE3C-205CD079090A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63221B8F-0FD4-418B-AE3C-205CD079090A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63221B8F-0FD4-418B-AE3C-205CD079090A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63221B8F-0FD4-418B-AE3C-205CD079090A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57C1265A-34A1-484C-85DE-3A56CF480656}
+	EndGlobalSection
+EndGlobal
